@@ -1,5 +1,5 @@
 /*
- * Copyright (C), 2014-2017, 杭州小卡科技有限公司
+ * Copyright (C), 2014-2017, 杭州XX科技有限公司
  * FileName: VTConsumer.java
  * Author:   Cheng Zhujiang
  * Date:     2017/11/17 12:47

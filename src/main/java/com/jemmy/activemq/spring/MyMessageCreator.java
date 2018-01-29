@@ -1,5 +1,5 @@
 /*
- * Copyright (C), 2014-2017, 杭州小卡科技有限公司
+ * Copyright (C), 2014-2017, 杭州XX科技有限公司
  * FileName: MyMessageCreator.java
  * Author:   Cheng Zhujiang
  * Date:     2017/10/20 13:44
